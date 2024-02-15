@@ -1,0 +1,1693 @@
+.home {
+  border-radius: 2rem;
+  box-shadow: 0 0.4rem 1rem rgba(0, 0, 0, 0.25);
+  height: 102.4rem;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+
+  .rectangle-3 {
+    background-color: #efeef6;
+    box-shadow: 0 0.4rem 1rem rgba(0, 0, 0, 0.25);
+    height: 102.4rem;
+    left: 28.7rem;
+    position: absolute;
+    top: 0;
+    width: 115.3rem;
+  }
+  .group-21 {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 48rem;
+    left: 28.6rem;
+    position: absolute;
+    top: 0;
+    width: 115.4rem;
+
+    .group-20 {
+      align-items: center;
+      background-color: #fefefe;
+      box-shadow: 0 0.4rem 1rem rgba(0, 0, 0, 0.2199999988);
+      box-sizing: border-box;
+      display: flex;
+      flex-shrink: 0;
+      height: 11.5rem;
+      margin-bottom: 8.3rem;
+      padding: 3.5rem 7.9rem 3rem 6.9rem;
+      width: 100%;
+
+      .group-18 {
+        align-items: center;
+        background-color: #efeff7;
+        border: solid 0.1rem #7e7e7e;
+        border-radius: 0.8rem;
+        box-sizing: border-box;
+        display: flex;
+        flex-shrink: 0;
+        height: 100%;
+        margin-right: 37.5rem;
+        padding: 1.5rem 23.55rem 1.4rem 1.7rem;
+
+        .search-g {
+          flex-shrink: 0;
+          height: 2rem;
+          margin: 0rem 1.85rem 0.1rem 0rem;
+          object-fit: contain;
+          vertical-align: top;
+          width: 2rem;
+        }
+        .search-P {
+          color: #7e7e7e;
+          flex-shrink: 0;
+          font-family: Poppins, sans-serif;
+          font-size: 1.5rem;
+          font-weight: 500;
+          letter-spacing: 0.225rem;
+          line-height: 1.365;
+          text-align: center;
+          white-space: nowrap;
+        }
+      }
+      .group-19 {
+        align-items: center;
+        display: flex;
+        flex-shrink: 0;
+        height: calc(100% - 1rem);
+        margin: 0.5rem 0;
+
+        .auto-group-r {
+          align-items: center;
+          box-sizing: border-box;
+          display: flex;
+          flex-shrink: 0;
+          height: 100%;
+          padding: 0.5rem 3.8rem 0.5rem 0rem;
+
+          .notification {
+            flex-shrink: 0;
+            height: 3rem;
+            margin-right: 3.8rem;
+            object-fit: contain;
+            vertical-align: top;
+            width: 3rem;
+          }
+          .shopping-cart {
+            flex-shrink: 0;
+            height: 3rem;
+            object-fit: contain;
+            vertical-align: top;
+            width: 3rem;
+          }
+        }
+        .auto-group-g {
+          background-color: #ffffff;
+          border: solid 0.3rem #deddeb;
+          border-radius: 2rem;
+          box-sizing: border-box;
+          flex-shrink: 0;
+          height: 100%;
+          margin-right: 0.75rem;
+          padding: 0.5rem;
+
+          .user {
+            height: 3rem;
+            object-fit: contain;
+            vertical-align: top;
+            width: 3rem;
+          }
+        }
+        .mohana {
+          color: #7e7e7e;
+          flex-shrink: 0;
+          font-family: Poppins, sans-serif;
+          font-size: 1.5rem;
+          font-weight: 500;
+          letter-spacing: 0.225rem;
+          line-height: 1.365;
+          margin: 0.1rem 0.15rem 0rem 0rem;
+          text-align: center;
+          white-space: nowrap;
+        }
+        .keyboard-arrow-down {
+          flex-shrink: 0;
+          height: 2rem;
+          margin-top: 0.4rem;
+          object-fit: contain;
+          vertical-align: top;
+          width: 2rem;
+        }
+      }
+    }
+    .auto-group-q {
+      flex-shrink: 0;
+      height: 28.2rem;
+      margin: 0rem 6.3rem 0rem 4.5rem;
+      position: relative;
+      width: calc(100% - 10.8rem);
+
+      .rectangle-115 {
+        background: linear-gradient(271.38deg, #2d6296 128.01%, #239bb1 181.29%, #06c682 237.86%);
+        border-radius: 1rem;
+        height: 22.6rem;
+        left: 0;
+        position: absolute;
+        top: 0;
+        width: 104.6rem;
+      }
+      .hello-mohana {
+        align-items: baseline;
+        color: #ffffff;
+        display: flex;
+        font-family: Poppins, sans-serif;
+        font-size: 2.4rem;
+        font-weight: 500;
+        height: 2.9rem;
+        left: 2.4rem;
+        line-height: 1.171875;
+        position: absolute;
+        text-align: center;
+        top: 2.9rem;
+        white-space: nowrap;
+        width: 17.2rem;
+
+        .hello-mohana-0 {
+          color: #ffffff;
+          font-family: Poppins, sans-serif;
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.1725;
+        }
+        .hello-mohana-1 {
+          color: #ffffff;
+          font-family: Poppins, sans-serif;
+          font-size: 2.4rem;
+          font-weight: 700;
+          line-height: 1.1725;
+        }
+        .hello-mohana-2 {
+          color: #00ff84;
+          font-family: Poppins, sans-serif;
+          font-size: 2.4rem;
+          font-weight: 700;
+          line-height: 1.1725;
+        }
+      }
+      .rectangle-116 {
+        background-color: #ffffff;
+        border-radius: 2rem;
+        box-shadow: 0 0.4rem 1rem rgba(0, 0, 0, 0.200000003);
+        height: 10rem;
+        left: 1.5rem;
+        position: absolute;
+        top: 18.2rem;
+        width: 22.5rem;
+      }
+      .rectangle-117 {
+        background-color: #ffffff;
+        border-radius: 2rem;
+        box-shadow: 0 0.4rem 1rem rgba(0, 0, 0, 0.200000003);
+        height: 10rem;
+        left: 27.9rem;
+        position: absolute;
+        top: 18.2rem;
+        width: 22.5rem;
+      }
+      .rectangle-118 {
+        background-color: #ffffff;
+        border-radius: 2rem;
+        box-shadow: 0 0.4rem 1rem rgba(0, 0, 0, 0.200000003);
+        height: 10rem;
+        left: 54.2rem;
+        position: absolute;
+        top: 18.2rem;
+        width: 22.5rem;
+      }
+      .rectangle-119 {
+        background-color: #ffffff;
+        border-radius: 2rem;
+        box-shadow: 0 0.4rem 1rem rgba(0, 0, 0, 0.200000003);
+        height: 10rem;
+        left: 80.6rem;
+        position: absolute;
+        top: 18.2rem;
+        width: 22.5rem;
+      }
+      .welcome {
+        color: #ffffff;
+        font-family: Poppins, sans-serif;
+        font-size: 1.6rem;
+        font-weight: 400;
+        height: 4.4rem;
+        left: 2.4rem;
+        line-height: 1.365;
+        position: absolute;
+        top: 6.8rem;
+        width: 76.5rem;
+      }
+      .ellipse-5 {
+        background-color: #a7e4ff;
+        border-radius: 2.5rem;
+        height: 5rem;
+        left: 3.5rem;
+        position: absolute;
+        top: 20.7rem;
+        width: 5rem;
+      }
+      .course-enrolled {
+        color: #000000;
+        font-family: Poppins, sans-serif;
+        font-size: 1.4rem;
+        font-weight: 400;
+        height: 5.8rem;
+        left: 10.7rem;
+        line-height: 1.6455078125;
+        position: absolute;
+        top: 20.7rem;
+        width: 4.8rem;
+
+        .course-enrolled-0 {
+          color: #000000;
+          font-family: Poppins, sans-serif;
+          font-size: 2rem;
+          font-weight: 700;
+          line-height: 1.365;
+        }
+        .course-enrolled-1 {
+          color: #7e7e7e;
+          font-family: Poppins, sans-serif;
+          font-size: 1.4rem;
+          font-weight: 400;
+          line-height: 1.09;
+        }
+      }
+      .overall-completion {
+        color: #000000;
+        font-family: Poppins, sans-serif;
+        font-size: 1.4rem;
+        font-weight: 400;
+        height: 5.8rem;
+        left: 36.1rem;
+        line-height: 1.6455078125;
+        position: absolute;
+        top: 20.5rem;
+        width: 6.7rem;
+
+        .overall-completion-0 {
+          color: #000000;
+          font-family: Poppins, sans-serifs;
+          font-size: 2rem;
+          font-weight: 700;
+          line-height: 1.365;
+        }
+        .overall-completion-1 {
+          color: #7e7e7e;
+          font-family: Poppins, sans-serif;
+          font-size: 1.4rem;
+          font-weight: 400;
+          line-height: 1.09;
+        }
+      }
+      .completed {
+        color: #000000;
+        font-family:Poppins, sans-serif;
+        font-size: 1.4rem;
+        font-weight: 400;
+        height: 4.3rem;
+        left: 63.1rem;
+        line-height: 1.6455078125;
+        position: absolute;
+        top: 20.4rem;
+        width: 6.5rem;
+
+        .completed-0 {
+          color: #000000;
+          font-family: Poppins, sans-serif;
+          font-size: 2rem;
+          font-weight: 700;
+          line-height: 1.365;
+        }
+        .completed-1 {
+          color: #7e7e7e;
+          font-family: Poppins, sans-serif;
+          font-size: 1.4rem;
+          font-weight: 400;
+          line-height: 1.09;
+        }
+      }
+      .expired {
+        color: #000000;
+        font-family: Poppins, sans-serif;
+        font-size: 1.4rem;
+        font-weight: 400;
+        height: 4.3rem;
+        left: 89.5rem;
+        line-height: 1.6455078125;
+        position: absolute;
+        top: 20.4rem;
+        width: 4.6rem;
+
+        .expired-0 {
+          color: #000000;
+          font-family: Poppins, sans-serif;
+          font-size: 2rem;
+          font-weight: 700;
+          line-height: 1.365;
+        }
+        .expired-1 {
+          color: #7e7e7e;
+          font-family: Poppins, sans-serif;
+          font-size: 1.4rem;
+          font-weight: 400;
+          line-height: 1.09;
+        }
+      }
+      .ellipse {
+        background-color: #fff1ce;
+        border-radius: 2.5rem;
+        height: 5rem;
+        left: 28.9rem;
+        position: absolute;
+        top: 20.7rem;
+        width: 5rem;
+      }
+      .ellipse-1 {
+        background-color: #d0ffee;
+        border-radius: 2.5rem;
+        height: 5rem;
+        left: 55.9rem;
+        position: absolute;
+        top: 20.7rem;
+        width: 5rem;
+      }
+      .ellipse-2 {
+        background-color: #ffcaca;
+        border-radius: 2.5rem;
+        height: 5rem;
+        left: 82.1rem;
+        position: absolute;
+        top: 20.7rem;
+        width: 5rem;
+      }
+      .courseenrolled {
+        height: 1.8164rem;
+        left: 4.75rem;
+        object-fit: contain;
+        position: absolute;
+        top: 22.325rem;
+        vertical-align: top;
+        width: 2.5rem;
+      }
+      .inspection {
+        height: 3rem;
+        left: 29.9rem;
+        object-fit: contain;
+        position: absolute;
+        top: 21.7rem;
+        vertical-align: top;
+        width: 3rem;
+      }
+      .task-completed {
+        height: 3rem;
+        left: 56.9rem;
+        object-fit: contain;
+        position: absolute;
+        top: 21.6rem;
+        vertical-align: top;
+        width: 3rem;
+      }
+      .cancel-order {
+        height: 3rem;
+        left: 83.1rem;
+        object-fit: contain;
+        position: absolute;
+        top: 21.6rem;
+        vertical-align: top;
+        width: 3rem;
+      }
+    }
+  }
+  .rectangle {
+    background-color: #ffffff;
+    border-radius: 2rem;
+    height: 41.7rem;
+    left: 87.9rem;
+    position: absolute;
+    top: 55.6rem;
+    width: 51.1rem;
+  }
+  .group {
+    height: 27.7rem;
+    left: 90.9rem;
+    position: absolute;
+    top: 65.4rem;
+    width: 17.65rem;
+
+    .auto-group-p {
+      height: 15rem;
+      margin-bottom: 3.2rem;
+      position: relative;
+      width: 15rem;
+
+      .completed-status {
+        color: #000000;
+        font-family:Poppins, sans-serif;
+        font-size: 1.3rem;
+        font-weight: 400;
+        height: 4.6rem;
+        left: 4rem;
+        letter-spacing: 0.065rem;
+        line-height: 1.171875;
+        position: absolute;
+        text-align: center;
+        top: 5.4rem;
+        width: 6.9rem;
+
+        .completed-status-0 {
+          color: #000000;
+          font-family: Poppins, sans-serif;
+          font-size: 1.3rem;
+          font-weight: 700;
+          letter-spacing: 0.065rem;
+          line-height: 1.1725;
+        }
+        .completed-status-1 {
+          color: rgba(126, 126, 126, 0.6000000238);
+          font-family: Poppins, sans-serif;
+          font-size: 1.3rem;
+          font-weight: 400;
+          letter-spacing: 0.065rem;
+          line-height: 1.1725;
+        }
+      }
+      .ellipse-1 {
+        background-color: rgba(217, 217, 217, 0.5);
+        border-radius: 7.5rem;
+        height: 15rem;
+        left: 0;
+        position: absolute;
+        top: 0;
+        width: 15rem;
+      }
+      .ellipse-2 {
+        height: 15rem;
+        left: 0;
+        object-fit: contain;
+        position: absolute;
+        top: 0;
+        vertical-align: top;
+        width: 15rem;
+      }
+      .ellipse-3 {
+        height: 12.7rem;
+        left: 1.2rem;
+        object-fit: contain;
+        position: absolute;
+        top: 1.1rem;
+        vertical-align: top;
+        width: 12.6rem;
+      }
+      .ellipse-4 {
+        height: 12.7rem;
+        left: 1.2rem;
+        object-fit: contain;
+        position: absolute;
+        top: 1.1rem;
+        vertical-align: top;
+        width: 12.6rem;
+      }
+      .ellipse-5 {
+        height: 10.5rem;
+        left: 2.3rem;
+        object-fit: contain;
+        position: absolute;
+        top: 2.2rem;
+        vertical-align: top;
+        width: 10.4173rem;
+      }
+      .ellipse-6 {
+        height: 10.5rem;
+        left: 2.3rem;
+        object-fit: contain;
+        position: absolute;
+        top: 2.2rem;
+        vertical-align: top;
+        width: 10.4173rem;
+      }
+    }
+    .auto-group-z {
+      align-items: center;
+      display: flex;
+      margin-bottom: 2.1rem;
+      width: 100%;
+
+      .ellipse-7 {
+        background-color: #78d8b6;
+        border-radius: 0.75rem;
+        flex-shrink: 0;
+        height: 1.5rem;
+        margin: 0.1rem 2.2rem 0rem 0rem;
+        width: 1.5rem;
+      }
+      .completed-8 {
+        color: rgba(126, 126, 126, 0.6000000238);
+        flex-shrink: 0;
+        font-family: Poppins, sans-serif;
+        font-size: 1.3rem;
+        font-weight: 400;
+        letter-spacing: 0.065rem;
+        line-height: 1.1725;
+        margin: 0.2rem 4.35rem 0rem 0rem;
+        text-align: center;
+        white-space: nowrap;
+      }
+      .item-50 {
+        color: rgba(126, 126, 126, 0.6000000238);
+        flex-shrink: 0;
+        font-family: Poppins, sans-serif;
+        font-size: 1.3rem;
+        font-weight: 400;
+        letter-spacing: 0.065rem;
+        line-height: 1.1725;
+        margin-bottom: 0.2rem;
+        text-align: center;
+        white-space: nowrap;
+      }
+    }
+    .auto-group-r {
+      align-items: center;
+      display: flex;
+      margin-bottom: 2rem;
+      width: 100%;
+
+      .ellipse-25 {
+        background-color: #eda8a8;
+        border-radius: 0.75rem;
+        flex-shrink: 0;
+        height: 1.5rem;
+        margin: 0rem 2.15rem 0.2rem 0rem;
+        width: 1.5rem;
+      }
+      .not-completed{
+        color: rgba(126, 126, 126, 0.6000000238);
+        flex-shrink: 0;
+        font-family: Poppins, sans-serif;
+        font-size: 1.3rem;
+        font-weight: 400;
+        letter-spacing: 0.065rem;
+        line-height: 1.1725;
+        margin: 0.1rem 1.8rem 0rem 0rem;
+        text-align: center;
+        white-space: nowrap;
+      }
+      .item-10 {
+        color: rgba(126, 126, 126, 0.6000000238);
+        flex-shrink: 0;
+        font-family: Poppins, sans-serif;
+        font-size: 1.3rem;
+        font-weight: 400;
+        letter-spacing: 0.065rem;
+        line-height: 1.1725;
+        margin-top: 0.1rem;
+        text-align: center;
+        white-space: nowrap;
+      }
+    }
+    .auto-group-k {
+      align-items: center;
+      display: flex;
+      width: 100%;
+
+      .ellipse-26 {
+        background-color: #ebd295;
+        border-radius: 0.75rem;
+        flex-shrink: 0;
+        height: 1.5rem;
+        margin: 0rem 2.15rem 0.4rem 0rem;
+        width: 1.5rem;
+      }
+      .not-started {
+        color: rgba(126, 126, 126, 0.6000000238);
+        flex-shrink: 0;
+        font-family: Poppins, sans-serif;
+        font-size: 1.3rem;
+        font-weight: 400;
+        letter-spacing: 0.065rem;
+        line-height: 1.1725;
+        margin: 0.1rem 4rem 0rem 0rem;
+        text-align: center;
+        white-space: nowrap;
+      }
+      .item-30 {
+        color: rgba(126, 126, 126, 0.6000000238);
+        flex-shrink: 0;
+        font-family: Poppins, sans-serif;
+        font-size: 1.3rem;
+        font-weight: 400;
+        letter-spacing: 0.065rem;
+        line-height: 1.1725;
+        margin-top: 0.3rem;
+        text-align: center;
+        white-space: nowrap;
+      }
+    }
+  }
+  .group-27 {
+    height: 27.1rem;
+    left: 118.8rem;
+    position: absolute;
+    top: 65.4rem;
+    width: 17.65rem;
+
+    .auto-group {
+      height: 15rem;
+      margin-bottom: 2.5rem;
+      position: relative;
+      width: 15rem;
+
+      .completed-status-X {
+        color: #000000;
+        font-family: Poppins, sans-serif;
+        font-size: 1.3rem;
+        font-weight: 400;
+        height: 4.6rem;
+        left: 3.8rem;
+        letter-spacing: 0.065rem;
+        line-height: 1.171875;
+        position: absolute;
+        text-align: center;
+        top: 5rem;
+        width: 6.9rem;
+
+        .completed-status-sub-0 {
+          color: #000000;
+          font-family: Poppins, sans-serif;
+          font-size: 1.3rem;
+          font-weight: 700;
+          letter-spacing: 0.065rem;
+          line-height: 1.1725;
+        }
+        .completed-status-sub-1 {
+          color: rgba(126, 126, 126, 0.6000000238);
+          font-family: Poppins, sans-serif;
+          font-size: 1.3rem;
+          font-weight: 400;
+          letter-spacing: 0.065rem;
+          line-height: 1.1725;
+        }
+      }
+      .ellipse-18 {
+        background-color: rgba(217, 217, 217, 0.5);
+        border-radius: 7.5rem;
+        height: 15rem;
+        left: 0;
+        position: absolute;
+        top: 0;
+        width: 15rem;
+      }
+      .ellipse-19 {
+        height: 15rem;
+        left: 0;
+        object-fit: contain;
+        position: absolute;
+        top: 0;
+        vertical-align: top;
+        width: 15rem;
+      }
+      .ellipse-20 {
+        height: 12.7rem;
+        left: 1.2rem;
+        object-fit: contain;
+        position: absolute;
+        top: 1.1rem;
+        vertical-align: top;
+        width: 12.6rem;
+      }
+      .ellipse-21 {
+        height: 12.7rem;
+        left: 1.2rem;
+        object-fit: contain;
+        position: absolute;
+        top: 1.1rem;
+        vertical-align: top;
+        width: 12.6rem;
+      }
+      .ellipse-22 {
+        height: 10.5rem;
+        left: 2.3rem;
+        object-fit: contain;
+        position: absolute;
+        top: 2.2rem;
+        vertical-align: top;
+        width: 10.4173rem;
+      }
+      .ellipse-23 {
+        height: 10.5rem;
+        left: 2.3rem;
+        object-fit: contain;
+        position: absolute;
+        top: 2.2rem;
+        vertical-align: top;
+        width: 10.4173rem;
+      }
+    }
+    .auto-group-x {
+      align-items: center;
+      display: flex;
+      margin-bottom: 1.8rem;
+      width: 100%;
+
+      .ellipse-27 {
+        background-color: #78d8b6;
+        border-radius: 0.75rem;
+        flex-shrink: 0;
+        height: 1.5rem;
+        margin: 0.7rem 2.2rem 0rem 0rem;
+        width: 1.5rem;
+      }
+      .completed-b {
+        color: rgba(126, 126, 126, 0.6000000238);
+        flex-shrink: 0;
+        font-family: Poppins, sans-serif;
+        font-size: 1.3rem;
+        font-weight: 400;
+        letter-spacing: 0.065rem;
+        line-height: 1.1725;
+        margin: 0rem 4.35rem 0.2rem 0rem;
+        text-align: center;
+        white-space: nowrap;
+      }
+      .item-50 {
+        color: rgba(126, 126, 126, 0.6000000238);
+        flex-shrink: 0;
+        font-family: Poppins, sans-serif;
+        font-size: 1.3rem;
+        font-weight: 400;
+        letter-spacing: 0.065rem;
+        line-height: 1.1725;
+        margin-bottom: 0.6rem;
+        text-align: center;
+        white-space: nowrap;
+      }
+    }
+    .auto-group-j {
+      align-items: flex-start;
+      display: flex;
+      margin-bottom: 1.9rem;
+      width: 100%;
+
+      .ellipse-28 {
+        background-color: #eda8a8;
+        border-radius: 0.75rem;
+        flex-shrink: 0;
+        height: 1.5rem;
+        margin: 0.4rem 2.15rem 0rem 0rem;
+        width: 1.5rem;
+      }
+      .not-completed-4 {
+        color: rgba(126, 126, 126, 0.6000000238);
+        flex-shrink: 0;
+        font-family: Poppins, sans-serif;
+        font-size: 1.3rem;
+        font-weight: 400;
+        letter-spacing: 0.065rem;
+        line-height: 1.1725;
+        margin-right: 1.8rem;
+        text-align: center;
+        white-space: nowrap;
+      }
+      .item-10 {
+        color: rgba(126, 126, 126, 0.6000000238);
+        flex-shrink: 0;
+        font-family: Poppins, sans-serif;
+        font-size: 1.3rem;
+        font-weight: 400;
+        letter-spacing: 0.065rem;
+        line-height: 1.1725;
+        text-align: center;
+        white-space: nowrap;
+      }
+    }
+    .auto-group-z {
+      align-items: center;
+      display: flex;
+      width: 100%;
+
+      .ellipse-29 {
+        background-color: #ebd295;
+        border-radius: 0.75rem;
+        flex-shrink: 0;
+        height: 1.5rem;
+        margin: 0.3rem 2.15rem 0rem 0rem;
+        width: 1.5rem;
+      }
+      .not-started-b {
+        color: rgba(126, 126, 126, 0.6000000238);
+        flex-shrink: 0;
+        font-family: Poppins, sans-serif;
+        font-size: 1.3rem;
+        font-weight: 400;
+        letter-spacing: 0.065rem;
+        line-height: 1.1725;
+        margin: 0rem 4rem 0.2rem 0rem;
+        text-align: center;
+        white-space: nowrap;
+      }
+      .item-30 {
+        color: rgba(126, 126, 126, 0.6000000238);
+        flex-shrink: 0;
+        font-family: Poppins, sans-serif;
+        font-size: 1.3rem;
+        font-weight: 400;
+        letter-spacing: 0.065rem;
+        line-height: 1.1725;
+        text-align: center;
+        white-space: nowrap;
+      }
+    }
+  }
+  .group-24 {
+    align-items: center;
+    background-color: #ffffff;
+    border-radius: 2rem;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    height: 41.8rem;
+    left: 33.1rem;
+    padding: 2.1rem 1.669rem 4.3rem 2.4rem;
+    position: absolute;
+    top: 55.6rem;
+    width: 51.7rem;
+
+    .group-22 {
+      border-bottom: solid 0.1rem rgba(126, 126, 126, 0.3000000119);
+      box-sizing: border-box;
+      flex-shrink: 0;
+      height: 5.4rem;
+      margin: 0rem 0.331rem 1rem 0rem;
+      width: 47.3rem;
+
+      .auto-group-m {
+        align-items: center;
+        display: flex;
+        height: 3.2rem;
+        width: 100%;
+
+        .auto-group-h {
+          align-items: center;
+          box-sizing: border-box;
+          display: flex;
+          flex-shrink: 0;
+          height: 100%;
+          padding: 0.5rem 7.7rem 0.3rem 0rem;
+
+          .courses-J {
+            color: #264d74;
+            flex-shrink: 0;
+            font-family: Poppins, sans-serif;
+            font-size: 2rem;
+            font-weight: 600;
+            letter-spacing: 0.1rem;
+            line-height: 1.1725;
+            margin-right: 3.6rem;
+            text-align: center;
+            white-space: nowrap;
+          }
+          .auto-group-n {
+            flex-shrink: 0;
+            height: calc(100% - 0.4rem);
+            margin: 0.1rem 0rem 0.3rem 0rem;
+            position: relative;
+            width: 4.3rem;
+
+            .all {
+              color: #7e7e7e;
+              font-family: Poppins, sans-serif;
+              font-size: 1.5rem;
+              font-weight: 400;
+              height: 1.8rem;
+              left: 0;
+              letter-spacing: 0.225rem;
+              line-height: 1.1725;
+              position: absolute;
+              text-align: center;
+              top: 0.1rem;
+              white-space: nowrap;
+              width: 2.4rem;
+            }
+            .keyboard-arrow-down {
+              height: 2rem;
+              left: 2.3rem;
+              object-fit: contain;
+              position: absolute;
+              top: 0;
+              vertical-align: top;
+              width: 2rem;
+            }
+          }
+        }
+        .auto-group-g {
+          align-items: center;
+          background-color: #efeff7;
+          border: solid 0.1rem #7e7e7e;
+          border-radius: 0.5rem;
+          box-sizing: border-box;
+          display: flex;
+          flex-shrink: 0;
+          height: 100%;
+          padding: 0.6rem 10.4rem 0.6rem 0.8rem;
+
+          .search {
+            flex-shrink: 0;
+            height: 2rem;
+            margin-right: 1.4rem;
+            object-fit: contain;
+            vertical-align: top;
+            width: 2rem;
+          }
+          .search-here {
+            color: #7e7e7e;
+            flex-shrink: 0;
+            font-family: Poppins, sans-serif;
+            font-size: 1.3rem;
+            font-weight: 400;
+            letter-spacing: 0.195rem;
+            line-height: 1.1725;
+            margin-top: 0.2rem;
+            text-align: center;
+            white-space: nowrap;
+          }
+        }
+      }
+    }
+    .auto-group-k {
+      align-items: flex-start;
+      display: flex;
+      flex-shrink: 0;
+      height: 29rem;
+      width: 100%;
+
+      .group-23 {
+        flex-shrink: 0;
+        height: 100%;
+        margin-right: 2.3rem;
+        width: 45.3rem;
+
+        .auto-group-a {
+          align-items: flex-end;
+          display: flex;
+          margin: 0rem 37.5rem 1.9rem 0rem;
+          width: calc(100% - 37.5rem);
+
+          .unchecked-checkbox {
+            background-color: #fafafa;
+            border: solid 0.1rem #7e7e7e;
+            border-radius: 0.4rem;
+            box-sizing: border-box;
+            flex-shrink: 0;
+            height: 1.5rem;
+            margin-right: 0.6rem;
+            width: 1.5rem;
+          }
+          .select-all {
+            color: #7e7e7e;
+            flex-shrink: 0;
+            font-family: Poppins, sans-serif;
+            font-size: 1.3rem;
+            font-weight: 400;
+            letter-spacing: 0.065rem;
+            line-height: 1.2575;
+            text-align: center;
+            white-space: nowrap;
+          }
+        }
+        .auto-group-w {
+          align-items: center;
+          display: flex;
+          width: 100%;
+
+          .unchecked-checkbox-0 {
+            background-color: #fafafa;
+            border: solid 0.1rem #7e7e7e;
+            border-radius: 0.4rem;
+            box-sizing: border-box;
+            flex-shrink: 0;
+            height: 1.5rem;
+            margin: 0rem 0.55rem 0.1rem 0rem;
+            width: 1.5rem;
+          }
+          .anesthesia-critical-care {
+            color: #7e7e7e;
+            flex-shrink: 0;
+            font-family: Poppins, sans-serif;
+            font-size: 1.3rem;
+            font-weight: 500;
+            line-height: 1.1909999847;
+            margin-right: 2.35rem;
+            text-align: center;
+            white-space: nowrap;
+          }
+          .line-2 {
+            flex-shrink: 0;
+            height: 0;
+            margin-right: 4.5rem;
+            object-fit: contain;
+            vertical-align: top;
+            width: 16.6rem;
+          }
+          .item-100 {
+            color: #7e7e7e;
+            flex-shrink: 0;
+            font-family: Poppins, sans-serif;
+            font-size: 1.3rem;
+            font-weight: 500;
+            line-height: 1.1909999847;
+            text-align: center;
+            white-space: nowrap;
+          }
+        }
+        .auto-group-z {
+          box-sizing: border-box;
+          display: flex;
+          flex-direction: column;
+          padding-top: 1.8rem;
+          row-gap: 1.8rem;
+          width: 100%;
+
+          .auto-group-6 {
+            align-items: flex-start;
+            display: flex;
+            flex-shrink: 0;
+
+            .unchecked-checkbox-Z {
+              background-color: #fafafa;
+              border: solid 0.1rem #7e7e7e;
+              border-radius: 0.4rem;
+              box-sizing: border-box;
+              flex-shrink: 0;
+              height: 1.5rem;
+              margin-right: 0.55rem;
+              width: 1.5rem;
+            }
+            .anesthesia-critical-care-t {
+              color: #7e7e7e;
+              flex-shrink: 0;
+              font-family: Poppins, sans-serif;
+              font-size: 1.3rem;
+              font-weight: 500;
+              line-height: 1.1909999847;
+              margin-right: 23.65rem;
+              text-align: center;
+              white-space: nowrap;
+            }
+            .item-20 {
+              color: #7e7e7e;
+              flex-shrink: 0;
+              font-family: Poppins, sans-serif;
+              font-size: 1.3rem;
+              font-weight: 500;
+              line-height: 1.1909999847;
+              text-align: center;
+              white-space: nowrap;
+            }
+          }
+          .auto-group-p {
+            align-items: flex-start;
+            display: flex;
+            flex-shrink: 0;
+
+            .unchecked-checkbox-f {
+              background-color: #fafafa;
+              border: solid 0.1rem #7e7e7e;
+              border-radius: 0.4rem;
+              box-sizing: border-box;
+              flex-shrink: 0;
+              height: 1.5rem;
+              margin-right: 0.55rem;
+              width: 1.5rem;
+            }
+            .anesthesia-critical-care-L {
+              color: #7e7e7e;
+              flex-shrink: 0;
+              font-family: Poppins, sans-serif;
+              font-size: 1.3rem;
+              font-weight: 500;
+              line-height: 1.1909999847;
+              margin-right: 24.05rem;
+              text-align: center;
+              white-space: nowrap;
+            }
+            .item-2 {
+              color: #7e7e7e;
+              flex-shrink: 0;
+              font-family: Poppins, sans-serif;
+              font-size: 1.3rem;
+              font-weight: 500;
+              line-height: 1.1909999847;
+              text-align: center;
+              white-space: nowrap;
+            }
+          }
+          .auto-group-d {
+            align-items: center;
+            display: flex;
+            flex-shrink: 0;
+
+            .unchecked-checkbox-C {
+              background-color: #fafafa;
+              border: solid 0.1rem #7e7e7e;
+              border-radius: 0.4rem;
+              box-sizing: border-box;
+              flex-shrink: 0;
+              height: 1.5rem;
+              margin: 0rem 0.55rem 0.1rem 0rem;
+              width: 1.5rem;
+            }
+            .anesthesia-critical-care-6 {
+              color: #7e7e7e;
+              flex-shrink: 0;
+              font-family:Poppins, sans-serif;
+              font-size: 1.3rem;
+              font-weight: 500;
+              line-height: 1.1909999847;
+              margin-right: 2.35rem;
+              text-align: center;
+              white-space: nowrap;
+            }
+            .line-5 {
+              flex-shrink: 0;
+              height: 0;
+              margin-right: 5.1rem;
+              object-fit: contain;
+              vertical-align: top;
+              width: 16.6rem;
+            }
+            .item-0 {
+              color: #7e7e7e;
+              flex-shrink: 0;
+              font-family: Poppins, sans-serif;
+              font-size: 1.3rem;
+              font-weight: 500;
+              line-height: 1.1909999847;
+              text-align: center;
+              white-space: nowrap;
+            }
+          }
+          .auto-group-c {
+            align-items: flex-start;
+            display: flex;
+            flex-shrink: 0;
+
+            .unchecked-checkbox-E {
+              background-color: #fafafa;
+              border: solid 0.1rem #7e7e7e;
+              border-radius: 0.4rem;
+              box-sizing: border-box;
+              flex-shrink: 0;
+              height: 1.5rem;
+              margin-right: 0.55rem;
+              width: 1.5rem;
+            }
+            .anesthesia-critical-care-M {
+              color: #7e7e7e;
+              flex-shrink: 0;
+              font-family: Poppins, sans-serif;
+              font-size: 1.3rem;
+              font-weight: 500;
+              line-height: 1.1909999847;
+              margin-right: 23.85rem;
+              text-align: center;
+              white-space: nowrap;
+            }
+            .item-10 {
+              color: #7e7e7e;
+              flex-shrink: 0;
+              font-family: Poppins, sans-serif;
+              font-size: 1.3rem;
+              font-weight: 500;
+              line-height: 1.1909999847;
+              text-align: center;
+              white-space: nowrap;
+            }
+          }
+          .auto-group-a {
+            align-items: center;
+            display: flex;
+            flex-shrink: 0;
+
+            .unchecked-checkbox-Z {
+              background-color: #fafafa;
+              border: solid 0.1rem #7e7e7e;
+              border-radius: 0.4rem;
+              box-sizing: border-box;
+              flex-shrink: 0;
+              height: 1.5rem;
+              margin: 0rem 0.55rem 0.1rem 0rem;
+              width: 1.5rem;
+            }
+            .anesthesia-critical-care-g {
+              color: #7e7e7e;
+              flex-shrink: 0;
+              font-family: Poppins, sans-serif;
+              font-size: 1.3rem;
+              font-weight: 500;
+              line-height: 1.1909999847;
+              margin-right: 2.35rem;
+              text-align: center;
+              white-space: nowrap;
+            }
+            .line-7 {
+              flex-shrink: 0;
+              height: 0;
+              margin-right: 5.1rem;
+              object-fit: contain;
+              vertical-align: top;
+              width: 16.6rem;
+            }
+            .item-0 {
+              color: #7e7e7e;
+              flex-shrink: 0;
+              font-family: Poppins, sans-serif;
+              font-size: 1.3rem;
+              font-weight: 500;
+              line-height: 1.1909999847;
+              text-align: center;
+              white-space: nowrap;
+            }
+          }
+          .auto-group-j {
+            align-items: center;
+            display: flex;
+            flex-shrink: 0;
+
+            .unchecked-checkbox-S {
+              background-color: #fafafa;
+              border: solid 0.1rem #7e7e7e;
+              border-radius: 0.4rem;
+              box-sizing: border-box;
+              flex-shrink: 0;
+              height: 1.5rem;
+              margin: 0rem 0.55rem 0.1rem 0rem;
+              width: 1.5rem;
+            }
+            .anesthesia-critical-care-w {
+              color: #7e7e7e;
+              flex-shrink: 0;
+              font-family: Poppins, sans-serif;
+              font-size: 1.3rem;
+              font-weight: 500;
+              line-height: 1.1909999847;
+              margin-right: 2.35rem;
+              text-align: center;
+              white-space: nowrap;
+            }
+            .line-8 {
+              flex-shrink: 0;
+              height: 0;
+              margin-right: 5.1rem;
+              object-fit: contain;
+              vertical-align: top;
+              width: 16.6rem;
+            }
+            .item-0 {
+              color: #7e7e7e;
+              flex-shrink: 0;
+              font-family: Poppins, sans-serif;
+              font-size: 1.3rem;
+              font-weight: 500;
+              line-height: 1.1909999847;
+              text-align: center;
+              white-space: nowrap;
+            }
+          }
+          .auto-group-7 {
+            align-items: flex-start;
+            display: flex;
+            flex-shrink: 0;
+
+            .unchecked-checkbox-u {
+              background-color: #fafafa;
+              border: solid 0.1rem #7e7e7e;
+              border-radius: 0.4rem;
+              box-sizing: border-box;
+              flex-shrink: 0;
+              height: 1.5rem;
+              margin-right: 0.55rem;
+              width: 1.5rem;
+            }
+            .anesthesia-critical-care-q {
+              color: #7e7e7e;
+              flex-shrink: 0;
+              font-family: Poppins, sans-serif;
+              font-size: 1.3rem;
+              font-weight: 500;
+              line-height: 1.1909999847;
+              margin-right: 23.65rem;
+              text-align: center;
+              white-space: nowrap;
+            }
+            .item-50 {
+              color: #7e7e7e;
+              flex-shrink: 0;
+              font-family: Poppins, sans-serif;
+              font-size: 1.3rem;
+              font-weight: 500;
+              line-height: 1.1909999847;
+              text-align: center;
+              white-space: nowrap;
+            }
+          }
+        }
+      }
+      .line-14 {
+        flex-shrink: 0;
+        height: 7.1027rem;
+        margin-top: 1.4rem;
+        object-fit: contain;
+        vertical-align: top;
+        width: 0.0315rem;
+      }
+    }
+  }
+  .group-25 {
+    border-bottom: solid 0.1rem rgba(126, 126, 126, 0.3000000119);
+    box-sizing: border-box;
+    height: 4.9rem;
+    left: 90.9rem;
+    padding-left: 0.05rem;
+    position: absolute;
+    top: 58.2rem;
+    width: 43.25rem;
+
+    .auto-group-n {
+      align-items: center;
+      display: flex;
+      height: 2.5rem;
+      width: 100%;
+
+      .overall-completion {
+        color: #264d74;
+        flex-shrink: 0;
+        font-family: Roboto, 'Source Sans Pro';
+        font-size: 2rem;
+        font-weight: 600;
+        letter-spacing: 0.1rem;
+        line-height: 1.1725;
+        margin: 0.1rem 17.15rem 0rem 0rem;
+        text-align: center;
+        white-space: nowrap;
+      }
+      .update-left-rotation {
+        flex-shrink: 0;
+        height: 2.5rem;
+        margin-right: 1.45rem;
+        object-fit: contain;
+        vertical-align: top;
+        width: 2.5rem;
+      }
+      .load {
+        color: #7e7e7e;
+        flex-shrink: 0;
+        font-family: Poppins, sans-serif;
+        font-size: 1.3rem;
+        font-weight: 400;
+        letter-spacing: 0.065rem;
+        line-height: 1.1725;
+        margin-bottom: 0.1rem;
+        text-align: center;
+        white-space: nowrap;
+      }
+    }
+  }
+  .rectangle-1 {
+    background: linear-gradient(14.36deg, #264d74 140.37%, #264d73 171.6%, #00a066 200.58%);
+    height: 102.4rem;
+    left: 0.1rem;
+    position: absolute;
+    top: 0;
+    width: 28.6rem;
+  }
+  .group-28 {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 18.2rem;
+    left: 2.4rem;
+    position: absolute;
+    top: 6rem;
+    width: 23.8rem;
+
+    .auto-group-l {
+      background-color: #ffffff;
+      border-radius: 5.75rem;
+      box-sizing: border-box;
+      flex-shrink: 0;
+      margin: 0rem 6.2rem 1.2rem 6.1rem;
+      padding: 3.7rem 0.891rem 3.8rem 1rem;
+      width: calc(100% - 12.3rem);
+
+      .raaonline-logo {
+        height: 4rem;
+        object-fit: cover;
+        vertical-align: top;
+        width: 9.6089rem;
+      }
+    }
+    .premium-medical-e-learning-platform {
+      color: #ffffff;
+      flex-shrink: 0;
+      font-family: Poppins, sans-serif;
+      font-size: 1.1rem;
+      font-weight: 500;
+      letter-spacing: 0.165rem;
+      line-height: 1.5;
+      max-width: 23.8rem;
+      text-align: center;
+
+      .premium-medical-e-learning-platform-0 {
+        color: #ffffff;
+        font-family:Poppins, sans-serif;
+        font-size: 2rem;
+        font-weight: 500;
+        letter-spacing: 0.3rem;
+        line-height: 1.365;
+      }
+      .premium-medical-e-learning-platform-1 {
+        color: #ffffff;
+        font-family: Poppins, sans-serif;
+        font-size: 1.1rem;
+        font-weight: 500;
+        letter-spacing: 0.165rem;
+        line-height: 1.365;
+      }
+    }
+  }
+  .group-57 {
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0);
+    box-sizing: border-box;
+    display: flex;
+    height: 5.7rem;
+    left: 0.1rem;
+    padding: 0.9rem 2.35rem 1.8rem 5.1rem;
+    position: absolute;
+    top: 48rem;
+    width: 28.6rem;
+
+    .video {
+      flex-shrink: 0;
+      height: 3rem;
+      margin-right: 1.65rem;
+      object-fit: contain;
+      vertical-align: top;
+      width: 3rem;
+    }
+    .video-sections {
+      color: #ffffff;
+      flex-shrink: 0;
+      font-family: Poppins, sans-serif;
+      font-size: 1.8rem;
+      font-weight: 500;
+      letter-spacing: 0.27rem;
+      line-height: 1.365;
+      margin-top: 0.5rem;
+      text-align: center;
+      white-space: nowrap;
+    }
+  }
+  .group-56 {
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0);
+    box-sizing: border-box;
+    cursor: pointer;
+    display: flex;
+    height: 5.7rem;
+    left: 0.1rem;
+    padding: 1.1rem 9.85rem 1.6rem 5.1rem;
+    position: absolute;
+    top: 38.9rem;
+    width: 28.6rem;
+
+    .course-assign {
+      flex-shrink: 0;
+      height: 3rem;
+      margin-right: 1.65rem;
+      object-fit: contain;
+      vertical-align: top;
+      width: 3rem;
+    }
+    .courses-a {
+      color: #ffffff;
+      flex-shrink: 0;
+      font-family: Poppins, sans-serif;
+      font-size: 1.8rem;
+      font-weight: 500;
+      letter-spacing: 0.27rem;
+      line-height: 1.365;
+      margin-top: 0.5rem;
+      text-align: center;
+      white-space: nowrap;
+    }
+  }
+  .group-58 {
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0);
+    box-sizing: border-box;
+    display: flex;
+    height: 5.7rem;
+    left: 0.1rem;
+    padding: 1.1rem 12.6rem 1.6rem 5.1rem;
+    position: absolute;
+    top: 56.7rem;
+    width: 28.6rem;
+
+    .pass-fail {
+      flex-shrink: 0;
+      height: 3rem;
+      margin-right: 1.7rem;
+      object-fit: contain;
+      vertical-align: top;
+      width: 3rem;
+    }
+    .mcqs {
+      color: #ffffff;
+      flex-shrink: 0;
+      font-family: Poppins, sans-serif;
+      font-size: 1.8rem;
+      font-weight: 500;
+      letter-spacing: 0.27rem;
+      line-height: 1.365;
+      margin-top: 0.5rem;
+      text-align: center;
+      white-space: nowrap;
+    }
+  }
+  .group-59 {
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0);
+    box-sizing: border-box;
+    display: flex;
+    height: 5.7rem;
+    left: 0.1rem;
+    padding: 1.1rem 11.55rem 1.6rem 5.1rem;
+    position: absolute;
+    top: 65.6rem;
+    width: 28.6rem;
+
+    .male-user {
+      flex-shrink: 0;
+      height: 3rem;
+      margin-right: 1.55rem;
+      object-fit: contain;
+      vertical-align: top;
+      width: 3rem;
+    }
+    .profile {
+      color: #ffffff;
+      flex-shrink: 0;
+      font-family: Poppins, sans-serif;
+      font-size: 1.8rem;
+      font-weight: 500;
+      letter-spacing: 0.27rem;
+      line-height: 1.365;
+      margin-top: 0.5rem;
+      text-align: center;
+      white-space: nowrap;
+    }
+  }
+  .group-60 {
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0);
+    box-sizing: border-box;
+    display: flex;
+    height: 5.7rem;
+    left: 0.1rem;
+    padding: 1.1rem 9.6rem 1.6rem 5.1rem;
+    position: absolute;
+    top: 74.5rem;
+    width: 28.6rem;
+
+    .settings {
+      flex-shrink: 0;
+      height: 3rem;
+      margin-right: 1.5rem;
+      object-fit: contain;
+      vertical-align: top;
+      width: 3rem;
+    }
+    .settings-1 {
+      color: #ffffff;
+      flex-shrink: 0;
+      font-family: Poppins, sans-serif;
+      font-size: 1.8rem;
+      font-weight: 500;
+      letter-spacing: 0.27rem;
+      line-height: 1.365;
+      margin-top: 0.5rem;
+      text-align: center;
+      white-space: nowrap;
+    }
+  }
+  .home {
+    color: #ffffff;
+    font-family: Poppins, sans-serif;
+    font-size: 1.8rem;
+    font-weight: 500;
+    height: 2.5rem;
+    left: 9.85rem;
+    letter-spacing: 0.27rem;
+    line-height: 1.365;
+    position: absolute;
+    text-align: center;
+    top: 31.6rem;
+    white-space: nowrap;
+    width: 6.1rem;
+  }
+  .home-1 {
+    height: 3rem;
+    left: 5.2rem;
+    object-fit: contain;
+    position: absolute;
+    top: 31.1rem;
+    vertical-align: top;
+    width: 3rem;
+  }
+  .group-30 {
+    background-color: rgba(255, 255, 255, 0.200000003);
+    box-sizing: border-box;
+    height: 5.7rem;
+    left: 0.1rem;
+    padding: 0.3rem 0.3rem 0.25rem 0.3rem;
+    position: absolute;
+    top: 29.9rem;
+    width: 28.6rem;
+
+    .line-17 {
+      height: 5.15rem;
+      object-fit: contain;
+      vertical-align: top;
+      width: 0;
+    }
+  }
+}

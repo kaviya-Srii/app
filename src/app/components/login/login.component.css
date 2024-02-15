@@ -1,0 +1,170 @@
+.login {
+  /* background: linear-gradient(14.36deg, #264d74 140.37%, #8da8c3 171.6%, #72bea3 200.58%); */
+  background: #bcc6df;
+  border-radius: 2rem;
+  height: 102.4rem;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+
+  .rectangle {
+    background-color: #deddeb;
+    border-radius: 3rem;
+    height: 86.2rem;
+    left: 6.9rem;
+    position: absolute;
+    top: 8rem;
+    width: 130.1rem;
+  }
+  .login-account {
+    color: #264d73;
+    font-family: Poppins, sans-serif;
+    font-size: 3.2rem;
+    font-weight: 600;
+    height: 4.8rem;
+    left: 89.95rem;
+    line-height: 1.5;
+    position: absolute;
+    text-align: center;
+    top: 25.5rem;
+    white-space: nowrap;
+    width: 23.2rem;
+  }
+  .rectangle-1 {
+    border-radius: 3rem;
+    height: 76rem;
+    left: 11.8rem;
+    position: absolute;
+    top: 13.2rem;
+    width: 59.2rem;
+  }
+  .rectangle-2 {
+    background: linear-gradient(45deg, #32608d 125.51%, #2f5c88 168.52%, #06c682 211.25%);
+    border-radius: 3rem 0 0 3rem;
+    height: 76rem;
+    left: 11.8rem;
+    position: absolute;
+    top: 13.2rem;
+    width: 59.2rem;
+  }
+  .premium-medical-e-learning-platform {
+    color: #ffffff;
+    font-family: Poppins, sans-serif;
+    font-size: 3.2rem;
+    font-weight: 500;
+    height: 8.8rem;
+    left: 22.3rem;
+    letter-spacing: 0.48rem;
+    line-height: 1.5;
+    position: absolute;
+    text-align: center;
+    top: 60rem;
+    width: 38.1rem;
+
+    .premium-medical-e-learning-platform-0 {
+      color: #ffffff;
+      font-family: Poppins, sans-serif;
+      font-size: 3.2rem;
+      font-weight: 500;
+      letter-spacing: 0.48rem;
+      line-height: 1.365;
+    }
+    .premium-medical-e-learning-platform-1 {
+      color: #ffffff;
+      font-family:Poppins, sans-serif;
+      font-size: 3.2rem;
+      font-weight: 500;
+      letter-spacing: 0.48rem;
+      line-height: 1.365;
+    }
+  }
+  .rectangle-3 {
+    background-color: #ffffff;
+    border: solid 0.1rem #7e7e7e;
+    border-radius: 1rem;
+    box-sizing: border-box;
+    height: 5.5rem;
+    left: 82.8rem;
+    position: absolute;
+    top: 39.3rem;
+    width: 37.5rem;
+  }
+  .rectangle-4 {
+    background-color: #ffffff;
+    border: solid 0.1rem #7e7e7e;
+    border-radius: 1rem;
+    box-sizing: border-box;
+    height: 5.5rem;
+    left: 82.6rem;
+    position: absolute;
+    top: 52.2rem;
+    width: 37.5rem;
+  }
+  .email {
+    color: #3069fc;
+    font-family:Poppins, sans-serif;
+    font-size: 2.2rem;
+    font-weight: 500;
+    height: 2.6rem;
+    left: 83.1rem;
+    line-height: 1.1725;
+    position: absolute;
+    text-align: center;
+    top: 34.8rem;
+    white-space: nowrap;
+    width: 5.5rem;
+  }
+  .password {
+    color: #3069fc;
+    font-family: Poppins, sans-serif;
+    font-size: 2.2rem;
+    font-weight: 500;
+    height: 2.6rem;
+    left: 82.8rem;
+    line-height: 1.1725;
+    position: absolute;
+    text-align: center;
+    top: 48.6rem;
+    white-space: nowrap;
+    width: 9.8rem;
+  }
+  .group {
+    align-items: center;
+    background-color: #3069fc;
+    border-radius: 1rem;
+    color: #ffffff;
+    cursor: pointer;
+    display: flex;
+    font-family: Poppins, sans-serif;
+    font-size: 1.6rem;
+    font-weight: 600;
+    height: 6rem;
+    justify-content: center;
+    left: 94.7rem;
+    letter-spacing: 0.24rem;
+    line-height: 1.5;
+    position: absolute;
+    text-align: center;
+    top: 66.7rem;
+    white-space: nowrap;
+    width: 13.8rem;
+  }
+  .group-1 {
+    background-color: #fdfbfb;
+    border-radius: 15rem;
+    box-sizing: border-box;
+    height: 30rem;
+    left: 26.4rem;
+    padding: 10.4rem 4rem 10.3rem 4rem;
+    position: absolute;
+    top: 25rem;
+    width: 30rem;
+
+    .raaonline-logo {
+      height: 9.3rem;
+      object-fit: cover;
+      vertical-align: top;
+      width: 22rem;
+    }
+  }
+}
