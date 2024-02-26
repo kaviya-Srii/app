@@ -1,0 +1,179 @@
+<div class="home-courses">
+  <div class="auto-group">
+    <div class="auto-group-1">
+      <div class="group">
+        <div class="auto-group-2">
+          <img class="raaonline-logo" src="../../../assets/Raaonline_logo3.jpg"/>
+        </div>
+        <p class="premium-medical-e-learning">
+          <span class="premium-medical-e-learning-0">
+            Premium Medical
+
+            <br />
+            E-learning Platform
+
+          </span>
+          <span class="premium-medical-e-learning-1"></span>
+        </p>
+      </div>
+      <div class="auto-group-3" (click)="handleHomeClick()">
+        <img class="home" src="../../../assets/home1.png"/>
+        <p class="home-1">Home</p>
+      </div>
+      <div class="auto-group-4" (click)="handleCoursesClick()">
+        <img class="course-assign" src="../../../assets/course.png"/>
+        <p class="courses">Courses</p>
+      </div>
+      <div class="auto-group-5" (click)="handleVideosClick()">
+        <img class="video" src="../../../assets/video.png"/>
+        <p class="video-sections">Video Sections</p>
+      </div>
+    </div>
+    <div class="auto-group-6" (click)="handleMcqClick()">
+      <img class="line" src=""/>
+      <img class="pass-fail" src="../../../assets/mcqs.png" />
+      <p class="mcqs">MCQs</p>
+    </div>
+    <div class="auto-group-7">
+      <div class="auto-group-8" (click)="handleProfileClick()">
+        <img class="male-user" src="../../../assets/profile.png"/>
+        <p class="profile">Profile</p>
+      </div>
+      <div class="auto-group-9">
+        <img class="settings" src="../../../assets/setting.png"/>
+        <p class="settings-1">Settings</p>
+      </div>
+    </div>
+  </div>
+  <div class="auto-group-10">
+    <div class="auto-group-11">
+      <div class="group-1">
+        <input type="text" class="serach-input" placeholder="Type to search">
+        <button class="search-button">Search</button>
+        <img class="search" src="../../../assets/search.png"/>
+        <!-- <p class="search-1">Search</p> -->
+      </div>
+      <div class="group-2">
+        <div class="auto-group-12">
+          <img class="notification" src="../../../assets/bell.png"/>
+          <img class="shopping-cart" src="../../../assets/cart.png"/>
+        </div>
+        <div class="auto-group-13" (click)="handleProfile1Click()">
+          <img class="user" src="../../../assets/profile.png"/>
+        </div>
+        <p class="mohana">Mohana</p>
+        <img class="keyboard-arrow-down" src="../../../assets/down arrow.png"/>
+      </div>
+    </div>
+    <p class="test-series-name">Test series name</p>
+    <div class="auto-group-14">
+      <div class="component">
+        <div class="auto-group-15">
+          <img class="line-1" src=""/>
+          <div class="auto-group-16">
+            <div class="auto-group-17">
+              <span class="auto-group-18">Q</span>
+              <span class="auto-group-19"> 1</span>
+            </div>
+            <p class="q-1">
+              <span class="q-2">Q</span>
+              <span class="q-3"> 2</span>
+            </p>
+          </div>
+        </div>
+        <p class="q-4">
+          <span class="q-5">Q</span>
+          <span class="q-6"> 3</span>
+        </p>
+        <p class="q-7">
+          <span class="q-8">Q</span>
+          <span class="q-9"> 4</span>
+        </p>
+        <p class="q-10">
+          <span class="q-11">Q</span>
+          <span class="q-12"> 5</span>
+        </p>
+        <p class="q-13">
+          <span class="q-14">Q</span>
+          <span class="q-15"> 6</span>
+        </p>
+        <p class="q-16">
+          <span class="q-17">Q</span>
+          <span class="q-18"> 7</span>
+        </p>
+        <p class="q-19">
+          <span class="q-20">Q</span>
+          <span class="q-21"> 8</span>
+        </p>
+      </div>
+      <ul class="group-3">
+        <div class="auto-group-20">
+          <div class="rectangle"></div>
+        </div>
+        <div class="auto-group-21">
+          <img class="clock" src="../../../assets/clock.png"/>
+          <p class="item">04:52</p>
+          <p class="answered">Answered 1/30</p>
+        </div>
+        <!-- questions -->
+        <!-- <div class="auto-group-22">
+          <p class="q1">Q1.</p>
+          <p class="lorem-ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Feugiat a mattis dolor et
+            aliquet eget di dignissim ac ?</p>
+          <p class="mark">Mark: 10 </p>
+        </div>
+        <div class="group-4">
+          <div class="group-5">A</div>
+          <div class="group-6">There are four main categories of anesthesia used during surgery
+            and other procedures: general anesthesia.</div>
+        </div>
+
+        <div class="group-7" >
+          <div class="group-8" >B</div>
+          <div class="group-9" >There are four main categories of anesthesia used during surgery
+            and other procedures: general anesthesia.</div>
+        </div>
+        <div class="group-10">
+          <div class="group-11">C</div>
+          <div class="group-12">There are four main categories of anesthesia used during surgery
+            and other procedures: general anesthesia.</div>
+        </div>
+        <div class="group-13">
+          <div class="group-14">D</div>
+          <div class="group-15">There are four main categories of anesthesia used during surgery
+            and other procedures: general anesthesia.</div>
+        </div> -->
+
+        <div *ngIf="!showResults" class="quiz">
+          <h2 class="h2">Question {{ currentQuestionIndex + 1 }}:</h2>
+          <p class="p">{{ questions[currentQuestionIndex]?.questionText }}</p>
+          <ul class="ul">
+            <li *ngFor="let option of questions[currentQuestionIndex]?.options; let i = index" class="li">
+              <label>
+                <input class="input" type="radio" name="question{{ currentQuestionIndex }}" [value]="option" (change)="onOptionSelect(currentQuestionIndex, option)">
+                {{ option }}
+              </label>
+            </li>
+          </ul>
+          <!-- <button class="button" (click)="onNext()">Next</button> -->
+        </div>
+
+        <div *ngIf="showResults" class="results">
+          <h2 class="h2">Results:</h2>
+          <ul>
+            <li clas="li-1" *ngFor="let question of questions; let i = index">
+              Question {{ i + 1 }}: {{ selectedOptions[i] === question.correctAnswer ? 'Correct' : 'Incorrect' }}
+            </li>
+          </ul>
+          <button class="submit-button" (click)="onSubmit()">Submit</button>
+        </div>
+
+
+        <div class="auto-group-23">
+          <div class="auto-group-24" (click)="onPrevious()">Previous</div>
+          <div class="auto-group-25"><button class="button" (click)="onNext()"> Next</button></div>
+        </div>
+      </ul>
+    </div>
+  </div>
+</div>

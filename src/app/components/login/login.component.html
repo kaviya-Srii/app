@@ -1,4 +1,4 @@
-<div class="login">
+<div class="login" [formGroup]="loginForm">
   <div class="rectangle"></div>
   <p class="login-account">Login Account</p>
   <div class="rectangle-1"></div>
@@ -6,20 +6,21 @@
   <p class="premium-medical-e-learning-platform">
     <span class="premium-medical-e-learning-platform-0">
       Premium Medical
-
       <br />
       E-learning Platform
-
     </span>
     <span class="premium-medical-e-learning-platform-1"></span>
   </p>
   <div class="rectangle-3"></div>
   <div class="rectangle-4"></div>
-  <p class="email"> Email</p> <br>
-  <p class="password">Password</p>
-  <div class="group">Next</div>
+  <form (ngSubmit)="onSubmit()">
+    <p class="email"> Email</p> <br>
+    <input class="email-1" type="email" formControlName="email"/>
+    <p class="password">Password</p><br>
+    <input type="password" class="password-1" formControlName="password" />
+    <div class="group" (click)="login()">Next</div>
+  </form>
   <div class="group-1">
-    <img class="raaonline-logo" src="../../../assets/Raaonline_logo.png" alt="no img" id="61:6" />
+    <img class="raaonline-logo" src="../../../assets/Raaonline_logo3.jpg" alt="no img" />
   </div>
 </div>
-

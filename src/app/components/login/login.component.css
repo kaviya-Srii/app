@@ -1,5 +1,4 @@
 .login {
-  /* background: linear-gradient(14.36deg, #264d74 140.37%, #8da8c3 171.6%, #72bea3 200.58%); */
   background: #bcc6df;
   border-radius: 2rem;
   height: 102.4rem;
@@ -39,7 +38,7 @@
     width: 59.2rem;
   }
   .rectangle-2 {
-    background: linear-gradient(45deg, #32608d 125.51%, #2f5c88 168.52%, #06c682 211.25%);
+    background: linear-gradient(178deg, rgba(41,106,134,1) 6%, rgba(41,106,134,1) 6%, rgba(39,187,147,1) 100%);
     border-radius: 3rem 0 0 3rem;
     height: 76rem;
     left: 11.8rem;
@@ -78,7 +77,7 @@
       line-height: 1.365;
     }
   }
-  .rectangle-3 {
+  .email-1 {
     background-color: #ffffff;
     border: solid 0.1rem #7e7e7e;
     border-radius: 1rem;
@@ -88,8 +87,9 @@
     position: absolute;
     top: 39.3rem;
     width: 37.5rem;
+    font-size: 30px;
   }
-  .rectangle-4 {
+  .password-1 {
     background-color: #ffffff;
     border: solid 0.1rem #7e7e7e;
     border-radius: 1rem;
@@ -99,6 +99,7 @@
     position: absolute;
     top: 52.2rem;
     width: 37.5rem;
+    font-size: 30px;
   }
   .email {
     color: #3069fc;
@@ -116,6 +117,7 @@
   }
   .password {
     color: #3069fc;
+    margin-top: 10px;
     font-family: Poppins, sans-serif;
     font-size: 2.2rem;
     font-weight: 500;

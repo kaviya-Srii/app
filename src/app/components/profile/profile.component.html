@@ -1,0 +1,120 @@
+<div class="home">
+  <div class="auto-group">
+    <div class="group">
+      <div class="auto-group-1">
+        <img class="raaonline-logo" src="../../../assets/Raaonline_logo3.jpg"/>
+      </div>
+      <p class="premium-medical-e-learning">
+        <span class="premium-medical-e-learning-0">
+          Premium Medical
+
+          <br />
+          E-learning Platform
+
+        </span>
+        <span class="premium-medical-e-learning-1"></span>
+      </p>
+    </div>
+    <div class="auto-group-2">
+      <div class="rectangle"></div>
+      <div class="group-1">
+        <div class="auto-group-3">
+          <div class="auto-group-4" (click)="handleHomeClick()">
+            <img class="home" src="../../../assets/home1.png"/>
+            <p class="home-1">Home</p>
+          </div>
+          <div class="auto-group-5" (click)="handleCoursesClick()">
+            <img class="course-assign" src="../../../assets/course.png"/>
+            <p class="courses">Courses</p>
+          </div>
+        </div>
+        <div class="auto-group-6" (click)="handleVideosClick()">
+          <img class="video" src="../../../assets/video.png"/>
+          <p class="video-sections" id="271:85">Video Sections</p>
+        </div>
+        <div class="auto-group-7" (click)="handleMcqClick()">
+          <div class="auto-group-8">
+            <img class="pass-fail" src="../../../assets/mcqs.png"/>
+            <p class="mcqs">MCQs</p>
+          </div>
+          <div class="auto-group-9" (click)="handleProfileClick()">
+            <img class="male-user" src="../../../assets/profile.png"/>
+            <p class="profile">Profile</p>
+          </div>
+          <div class="auto-group-10" (click)="handleSettingsClick()">
+            <img class="settings" src="../../../assets/setting.png"/>
+            <p class="settings-1">Settings</p>
+          </div>
+        </div>
+      </div>
+      <img class="line" src=""/>
+    </div>
+  </div>
+  <div class="auto-group-11">
+    <div class="auto-group-12">
+      <div class="group-2">
+        <input type="text" class="serach-input" placeholder="Type to search">
+        <button class="search-button">Search</button>
+        <img class="search" src="../../../assets/search.png"/>
+        <!-- <p class="search-1">Search</p> -->
+      </div>
+      <div class="group-3">
+        <div class="auto-group-13">
+          <img class="notification" src="../../../assets/bell.png"/>
+          <img class="shopping-cart" src="../../../assets/cart.png"/>
+        </div>
+        <div class="auto-group-14" (click)="handleProfile1Click()">
+          <img class="user" src="../../../assets/profile.png"/>
+        </div>
+        <p class="mohana">Mohana</p>
+        <img class="keyboard-arrow-down" src="../../../assets/down arrow.png"/>
+      </div>
+    </div>
+    <div class="auto-group-15">
+      <div class="auto-group-16">
+        <div class="rectangle-1">
+          <div class="rectangle-2"></div>
+        </div>
+        <div class="ellipse"></div>
+        <div class="ellipse-1"></div>
+        <div class="ellipse-2"></div>
+        <img class="pen" src="" />
+        <p class="hi-mohana">Hi Mohana!</p>
+        <p class="welcome-to-your-profile">Welcome to your profile.</p>
+      </div>
+
+      <form (ngSubmit)="onSubmit()" *ngIf="user">
+        <div class="auto-group-17">
+          <div class="auto-group-18">
+            <p class="full-name">Full Name</p>
+            <p class="phone-number">Phone Number</p>
+          </div>
+          <div class="auto-group-19">
+            <div class="auto-group-20"><input class="name" name="name" id="name" type="text"  [(ngModel)]="user.fullName"/></div>
+            <div class="auto-group-21"><input type="number" class="number" name="number" id="number"  [(ngModel)]="user.number"></div>
+          </div>
+          <div class="auto-group-22">
+            <p class="email">Email</p>
+            <p class="dob">DOB</p>
+          </div>
+          <div class="auto-group-23">
+            <div class="auto-group-24"><input type="email" class="email-1" id="email-1" name="email-1"  [(ngModel)]="user.email"></div>
+            <div class="auto-group-25">
+              <!-- <p class="dd-mm-yyyy"></p> -->
+              <input type="date" class="date" name="date" id="date"  [(ngModel)]="user.date">
+              <!-- <img class="calendar-today-ghu" src="/api/prod-ap-southeast-1-first-cluster/projects/Dn..." id="281:78" /> -->
+            </div>
+          </div>
+          <p class="deparment">Deparment</p>
+          <div class="auto-group-26">
+            <input type="text" class="dept" name="dept" id="dept"  [(ngModel)]="user.department">
+            <!-- <p class="choose"></p> -->
+            <!-- <img class="vector" src="/api/prod-ap-southeast-1-first-cluster/projects/Dn..." id="281:84" /> -->
+          </div>
+        </div>
+      </form>
+
+      <div class="auto-group-27" (click)="addUser()">Add user</div>
+    </div>
+  </div>
+</div>

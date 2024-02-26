@@ -1,142 +1,148 @@
 <div class="home-courses">
   <div class="auto-group-1">
-  <div class="group-17">
-  <div class="auto-group-2">
-  <img class="raaonline-logo" src="../../../assets/Raaonline_logo.png"/>
-  </div>
-  <p class="premium-medical-e-learning-platform">
-  <span class="premium-medical-e-learning-platform-0">
-  Premium Medical
+    <div class="group-17">
+      <div class="auto-group-2">
+        <img class="raaonline-logo" src="../../../assets/Raaonline_logo3.jpg" />
+      </div>
+      <p class="premium-medical-e-learning-platform">
+        <span class="premium-medical-e-learning-platform-0">
+          Premium Medical
 
-  <br/>
-  E-learning Platform
+          <br />
+          E-learning Platform
 
-  </span>
-  <span class="premium-medical-e-learning-platform-1"></span>
-  </p>
-  </div>
-  <div class="auto-group-3" >
-  <div class="rectangle-1"></div>
-  <div class="group-16" >
-  <div class="auto-group-4">
-  <div class="auto-group-5">
-  <img class="home" src="../../../assets/home1.png" />
-  <p class="home-1">Home</p>
-  </div>
-  <div class="auto-group-6">
-  <img class="course-assign" src="../../../assets/course.png">
-  <p class="courses">Courses</p>
-  </div>
-  </div>
-  <div class="auto-group-7">
-  <img class="video" src="../../../assets/video.png" />
-  <p class="video-sections">Video Sections</p>
-  </div>
-  <div class="auto-group-8">
-  <div class="auto-group-9">
-  <img class="pass-fail" src="../../../assets/mcqs.png"/>
-  <p class="mcqs">MCQs</p>
-  </div>
-  <div class="auto-group-10">
-  <img class="male-user" src="../../../assets/profile.png"/>
-  <p class="profile">Profile</p>
-  </div>
-  <div class="auto-group-11">
-  <img class="settings" src="../../../assets/setting.png"/>
-  <p class="settings-1">Settings</p>
-  </div>
-  </div>
-  </div>
-  <img class="line" src=""/>
-  </div>
+        </span>
+        <span class="premium-medical-e-learning-platform-1"></span>
+      </p>
+    </div>
+    <div class="auto-group-3">
+      <div class="rectangle-1"></div>
+      <div class="group-16">
+        <div class="auto-group-4">
+          <div class="auto-group-5" (click)="handleHomeClick()">
+            <img class="home" src="../../../assets/home1.png" />
+            <p class="home-1">Home</p>
+          </div>
+          <div class="auto-group-6" (click)="handleCoursesClick()">
+            <img class="course-assign" src="../../../assets/course.png">
+            <p class="courses">Courses</p>
+          </div>
+        </div>
+        <div class="auto-group-7" (click)="handleVideoClick()">
+          <img class="video" src="../../../assets/video.png" />
+          <p class="video-sections">Video Sections</p>
+        </div>
+        <div class="auto-group-8">
+          <div class="auto-group-9" (click)="handleMcqClick()">
+            <img class="pass-fail" src="../../../assets/mcqs.png" />
+            <p class="mcqs">MCQs</p>
+          </div>
+          <div class="auto-group-10" (click)="handleProfileClick()">
+            <img class="male-user" src="../../../assets/profile.png" />
+            <p class="profile">Profile</p>
+          </div>
+          <div class="auto-group-11" (click)="handleSettingClick()">
+            <img class="settings" src="../../../assets/setting.png" />
+            <p class="settings-1">Settings</p>
+          </div>
+        </div>
+      </div>
+      <img class="line" src="" />
+    </div>
   </div>
   <div class="auto-group-12">
-  <div class="auto-group-13">
-  <div class="group-14">
-  <img class="search" src="../../../assets/search.png"/>
-  <p class="search-1">Search</p>
-  </div>
-  <div class="group-15">
-  <div class="auto-group-16">
-  <img class="notification" src="../../../assets/bell.png"/>
-  <img class="shopping-cart" src="../../../assets/cart.png"/>
-  </div>
-  <div class="auto-group-17">
-  <img class="user" src="../../../assets/profile.png"/>
-  </div>
-  <p class="mohana">Mohana</p>
-  <img class="keyboard-arrow-down" src="../../../assets/down arrow.png"/>
-  </div>
-  </div>
-  <p class="ansethsia-m">Ansethsia MD/DNB</p>
-  <div class="auto-group-18" >
-  <div class="auto-group-19" >
-  <div class="auto-group-20" >
-  <p class="pre-anesthesia">
-  Pre-Anesthesia Safety Checkout
+    <div class="auto-group-13">
+      <div class="group-14">
+        <input type="text" class="serach-input" placeholder="Type to search">
+        <button class="search-button" (click)="handleSearchClick()">Search</button>
+        <img class="search" src="../../../assets/search.png" />
+        <!-- <p class="search-1">Search</p> -->
+      </div>
+      <div class="group-15">
+        <div class="auto-group-16">
+          <img class="notification" src="../../../assets/bell.png" />
+          <img class="shopping-cart" src="../../../assets/cart.png" />
+        </div>
+        <div class="auto-group-17">
+          <img class="user" src="../../../assets/profile.png" />
+        </div>
+        <p class="mohana">Mohana</p>
+        <img class="keyboard-arrow-down" src="../../../assets/down arrow.png" />
+      </div>
+    </div>
+    <p class="ansethsia-m">Ansethsia MD/DNB</p>
+    <div class="auto-group-18">
+      <div class="auto-group-19" (click)="handleGroup19Click()">
+        <div class="auto-group-20">
+          <p class="pre-anesthesia">
+            Pre-Anesthesia Safety Checkout
 
-  <br/>
-  Procedures- What to Check
+            <br />
+            Procedures- What to Check
 
-  </p>
-  <img class="arrow-forward" src="../../../assets/sidearrow.png"/>
-  </div>
-  <div class="auto-group-21">
-  <p class="pre-anesthesia-1">
-  Pre-Anesthesia Safety Checkout
+          </p>
+          <img class="arrow-forward" src="../../../assets/sidearrow.png" />
+        </div>
 
-  <br/>
-  Procedures- What to Check
+        <div class="auto-group-21" (click)="handleGroup21Click()">
+          <p class="pre-anesthesia-1">
+            Pre-Anesthesia Safety Checkout
 
-  </p>
-  <img class="arrow-forward-1" src="../../../assets/sidearrow.png" />
-  </div>
-  </div>
-  <div class="auto-group-22" >
-  <div class="auto-group-23" >
-  <p class="pre-anesthesia-3">
-  Pre-Anesthesia Safety Checkout
+            <br />
+            Procedures- What to Check
 
-  <br/>
-  Procedures- What to Check
+          </p>
+          <img class="arrow-forward-1" src="../../../assets/sidearrow.png" />
+        </div>
+      </div>
 
-  </p>
-  <img class="lock" src="../../../assets/lock.png"/>
-  </div>
-  <div class="auto-group-24">
-  <p class="pre-anesthesia-4">
-  Pre-Anesthesia Safety Checkout
+      <div class="auto-group-22">
+        <div class="auto-group-23" (click)="handleGroup23Click()">
+          <p class="pre-anesthesia-3">
+            Pre-Anesthesia Safety Checkout
 
-  <br/>
-  Procedures- What to Check
+            <br />
+            Procedures- What to Check
 
-  </p>
-  <img class="lock-1" src="../../../assets/lock.png"/>
-  </div>
-  </div>
-  <div class="auto-group-25" >
-  <div class="auto-group-26" >
-  <p class="pre-anesthesia-5">
-  Pre-Anesthesia Safety Checkout
+          </p>
+          <img class="lock" src="../../../assets/lock.png" />
+        </div>
 
-  <br/>
-  Procedures- What to Check
+        <div class="auto-group-24" (click)="handleGroup24Click()">
+          <p class="pre-anesthesia-4">
+            Pre-Anesthesia Safety Checkout
 
-  </p>
-  <img class="lock-2" src="../../../assets/lock.png"/>
-  </div>
-  <div class="auto-group-27">
-  <p class="pre-anesthesia-6">
-  Pre-Anesthesia Safety Checkout
+            <br />
+            Procedures- What to Check
 
-  <br/>
-  Procedures- What to Check
+          </p>
+          <img class="lock-1" src="../../../assets/lock.png" />
+        </div>
+      </div>
 
-  </p>
-  <img class="lock-3" src="../../../assets/lock.png"/>
-  </div>
-  </div>
-  </div>
-  </div>
-  </div>
+      <div class="auto-group-25">
+        <div class="auto-group-26" (click)="handleGroup26Click()">
+          <p class="pre-anesthesia-5">
+            Pre-Anesthesia Safety Checkout
 
+            <br />
+            Procedures- What to Check
+
+          </p>
+          <img class="lock-2" src="../../../assets/lock.png" />
+        </div>
+
+        <div class="auto-group-27" (click)="handleGroup27Click()">
+          <p class="pre-anesthesia-6">
+            Pre-Anesthesia Safety Checkout
+
+            <br />
+            Procedures- What to Check
+
+          </p>
+          <img class="lock-3" src="../../../assets/lock.png" />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

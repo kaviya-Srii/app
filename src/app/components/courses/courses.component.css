@@ -9,12 +9,13 @@
 
   .auto-group-1{
     align-items: center;
-    background: linear-gradient(14.36deg, #264d74 140.37%, #264d73 171.6%, #00a066 200.58%);
+    /* background: linear-gradient(14.36deg, #264d74 140.37%, #264d73 171.6%, #00a066 200.58%); */
+    background: linear-gradient(178deg, rgba(41,106,134,1) 6%, rgba(41,106,134,1) 6%, rgba(39,187,147,1) 100%);
     box-sizing: border-box;
     display: flex;
     flex-direction: column;
     flex-shrink: 0;
-    height: 102.4rem;
+    height: 110.4rem;
     padding: 6rem 0rem 23.8rem 0rem;
     width: 28.6rem;
 
@@ -314,8 +315,39 @@
         display: flex;
         flex-shrink: 0;
         height: 100%;
+        width: 600px;
         margin-right: 37.5rem;
         padding: 1.5rem 23.55rem 1.4rem 1.7rem;
+
+        .serach-input {
+          width: 300px;
+          height: 30px;
+          padding: 5px;
+          border: 1px solid #ccc;
+          border-radius: 5px;
+          font-size: 26px;
+        }
+        .serach-input-1::placeholder {
+          color: #999;
+        }
+
+        .serach-input-1:focus {
+          outline: none;
+          border-color: #007bff;
+        }
+        .search-button {
+          background-color: #007bff;
+          font-size: 20px;
+          color: #ffffff;
+          padding: 10px 20px;
+          border: none;
+          border-radius: 5px;
+          cursor: pointer;
+        }
+
+        .search-button:hover {
+          background-color: #0056b3;
+        }
 
         .search {
           flex-shrink: 0;
@@ -446,7 +478,7 @@
 
           .rectangle {
             background-color: #d9d9d9;
-            background-image: url('/api/prod-ap-southeast-1-first-cluster/projects/VC96FRFCsRdtZWft68GLtZ/files/image/83092d17926e7b7b9da0c6dd2a631014501d5e46');
+            background-image: url('../../../assets/courses\ bg.jpeg');
             background-position: center;
             background-repeat: no-repeat;
             background-size: 100% 100%;
@@ -582,7 +614,7 @@
 
           .rectangle-12 {
             background-color: #d9d9d9;
-            background-image: url('/api/prod-ap-southeast-1-first-cluster/projects/VC96FRFCsRdtZWft68GLtZ/files/image/83092d17926e7b7b9da0c6dd2a631014501d5e46');
+            background-image: url('../../../assets/courses\ bg.jpeg');
             background-position: center;
             background-repeat: no-repeat;
             background-size: 100% 100%;
@@ -729,7 +761,7 @@
 
           .rectangle-2 {
             background-color: #d9d9d9;
-            background-image: url('/api/prod-ap-southeast-1-first-cluster/projects/VC96FRFCsRdtZWft68GLtZ/files/image/83092d17926e7b7b9da0c6dd2a631014501d5e46');
+            background-image: url('../../../assets/courses\ bg.jpeg');
             background-position: center;
             background-repeat: no-repeat;
             background-size: 100% 100%;
@@ -891,7 +923,7 @@
 
           .rectangle-13 {
             background-color: #d9d9d9;
-            background-image: url('/api/prod-ap-southeast-1-first-cluster/projects/VC96FRFCsRdtZWft68GLtZ/files/image/83092d17926e7b7b9da0c6dd2a631014501d5e46');
+            background-image: url('../../../assets/courses\ bg.jpeg');
             background-position: center;
             background-repeat: no-repeat;
             background-size: 100% 100%;
@@ -1027,7 +1059,7 @@
 
           .rectangle-9 {
             background-color: #d9d9d9;
-            background-image: url('/api/prod-ap-southeast-1-first-cluster/projects/VC96FRFCsRdtZWft68GLtZ/files/image/83092d17926e7b7b9da0c6dd2a631014501d5e46');
+            background-image: url('../../../assets/courses\ bg.jpeg');
             background-position: center;
             background-repeat: no-repeat;
             background-size: 100% 100%;
@@ -1162,7 +1194,7 @@
 
           .rectangle-139 {
             background-color: #d9d9d9;
-            background-image: url('/api/prod-ap-southeast-1-first-cluster/projects/VC96FRFCsRdtZWft68GLtZ/files/image/83092d17926e7b7b9da0c6dd2a631014501d5e46');
+            background-image: url('../../../assets/courses\ bg.jpeg');
             background-position: center;
             background-repeat: no-repeat;
             background-size: 100% 100%;
